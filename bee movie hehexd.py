@@ -19,6 +19,7 @@ def execute():
         hotkey('enter')
         typewrite("/all ")
         sleep(0.25)
+        #btw if you ask yourself why it isn't typewrite("ACTIVE: Jax enters Evasion,"), it's because if I do it like that it cuts out some letters, sometimes.
         typewrite("ACTIVE:")
         typewrite(" Jax enters Evasion,")
 
