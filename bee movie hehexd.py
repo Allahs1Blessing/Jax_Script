@@ -1,6 +1,6 @@
 from time import sleep
 from pynput import keyboard
-from pyautogui import press, typewrite, hotkey
+from pyautogui import typewrite, hotkey
 
 n = 0
 COMBINATIONS = [
