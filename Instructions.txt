@@ -1,0 +1,10 @@
+What you need:
+
+newest version of python3#
+pycharm (or something else but I used it)
+pip to install addons:
+	-pynput
+	-pyautogui
+	-time 
+
+then you need to open the py exe with pycharm and run it there, haven't figured it out how to convert it into an exe, yet.
